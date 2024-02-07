@@ -2,9 +2,7 @@
 
 ## Repository Overview
 
-Welcome to the CSS-HTML-Sass Bootcamp Library! This repository contains my notes from the 12-week AMSxOpenClassrooms web development bootcamp. Each PDF file in this repository corresponds to video notes on a course in the section of the bootcamp and is published here for use as a reference resource. This extensive curriculum is meticulously crafted to guide students through a transformative journey in front-end web development, emphasising key technologies such as HTML, CSS, and Sass.
-
-This repository aims to provide students with a formal, organised, and detailed resource to complement their learning journey. The curated content spans from foundational concepts to advanced techniques, ensuring a comprehensive understanding of front-end web development.
+This repository contains my notes from the 12-week AMSxOpenClassrooms web development bootcamp. Each PDF file in this repository corresponds to video notes on a course in the section of the bootcamp and is published here for use as a reference resource. This curriculum covers emphases key technologies such as HTML, CSS, and Sass. More information about the content for each of these sections in the bootcamp is provided below, and their links are clickable for brevity.
 
 ## Bootcamp Courses Structure
 
