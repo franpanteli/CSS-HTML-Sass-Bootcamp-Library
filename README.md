@@ -2,7 +2,7 @@
 
 ## Repository Overview
 
-This repository contains my notes from the 12-week AMSxOpenClassrooms web development bootcamp. Each PDF file in this repository corresponds to video notes on a course in the section of the bootcamp and is published here for use as a reference resource. This curriculum covers emphases key technologies such as HTML, CSS, and Sass. More information about the content for each of these sections in the bootcamp is provided below, and their links are clickable for brevity.
+This repository contains my notes from the 12-week AMSxOpenClassrooms web development bootcamp. My notes on each section of the bootcamp material are published in this repository in PDF format, with these forming a reference libary for future use. This curriculum covers emphases key technologies such as HTML, CSS, and Sass. More information about the content for each of these sections in the bootcamp is provided below, and their links are clickable for brevity.
 
 ## Bootcamp Courses Structure
 
