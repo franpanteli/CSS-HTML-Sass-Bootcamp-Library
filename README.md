@@ -8,7 +8,7 @@ This repository contains my notes on the 12-week AMSxOpenClassrooms web developm
 
 1. [**Set Up Your Front-End Development Environment**](./1%20Set%20Up%20Your%20Front-End%20Development%20Environment.pdf)
    - This course was an introduction to essential tools and configurations for a productive front-end development environment
-   - This was delivered by Will Alexander and Mila Paul - on the OpenClassrooms platform
+   - This was delivered by Will Alexander and Mila Paul on the OpenClassrooms platform
 
 2. [**Build Your First Web Pages With HTML and CSS**](./2%20Build%20Your%20First%20Web%20Pages%20With%20HTML%20and%20CSS.pdf)
    - This course provided hands-on exploration of HTML and CSS to lay the foundation for creating visually appealing and structured web pages
