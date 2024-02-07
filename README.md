@@ -71,7 +71,7 @@ This repository contains my notes on the 12-week AMSxOpenClassrooms web developm
     - This was delivered by Pat Gerke and Max Wardeh on the OpenClassrooms platform
    
 ## Bootcamp Projects
-I completed three web development projects as part of this bootcamp. The links to the repositories which contain my work for these are provided below 
+I completed three web development projects as part of this bootcamp. The links to the repositories which contain my work for these are provided below: 
 1. [Web-Development-Bootcamp-Project-1-Skate-Park-Website](https://github.com/franpanteli/Web-Development-Bootcamp-Project-1-Skate-Park-Website)
 2. [Web-Development-Bootcamp-Project-2-Travel-Agency-Project](https://github.com/franpanteli/Web-Development-Bootcamp-Project-2-Travel-Agency-Project)
 3. [Web-Development-Bootcamp-Project-3-Menu-Website](https://github.com/franpanteli/Web-Development-Bootcamp-Project-3-Menu-Website)
