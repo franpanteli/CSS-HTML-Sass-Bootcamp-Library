@@ -4,7 +4,7 @@
 
 This repository contains my notes on the 12-week AMSxOpenClassrooms web development bootcamp. My notes on each section of the bootcamp material are published in this repository in PDF format, with these forming a reference library on HTML / Sass / CSS. This curriculum emphasises key front-end technologies in HTML, CSS, and Sass. More information about the specific content for each of these courses is provided below. Their links to my notes on these courses are clickable for brevity and the authors of the video lectures which they are based off of are also detailed below.
 
-## Bootcamp Courses Structure
+## Bootcamp Course Notes Structure
 
 1. [**Set Up Your Front-End Development Environment**](./1%20Set%20Up%20Your%20Front-End%20Development%20Environment.pdf)
    - This course was an introduction to essential tools and configurations for a productive front-end development environment
