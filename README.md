@@ -78,5 +78,5 @@ I completed three web development projects as part of this bootcamp. The links t
 
 ### To Clone This Repository
 ```
-git clone https://github.com/franpanteli/Python-Neural-Networks-Library.git
+git clone https://github.com/franpanteli/CSS-HTML-Sass-Bootcamp-Library.git
 ```
